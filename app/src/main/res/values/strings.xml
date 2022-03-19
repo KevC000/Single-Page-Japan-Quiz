@@ -1,0 +1,50 @@
+<resources>
+
+    <string name="app_name">JapanQuiz</string>
+
+    <!-- Question, possible answers, and answer reveal strings for Q1-->
+    <string name="q1_question">1. What is the capital of Japan?</string>
+    <string name="q1_a1">Kyoto</string>
+    <string name="q1_a2_answer">Tokyo</string>
+    <string name="q1_a3">Osaka</string>
+    <string name="q1_a4">Yokohama</string>
+
+    <string name="q1_correct_message">Correct Answer: Tokyo</string>
+    <!-- Question, possible answers, and answer reveal strings for Q2-->
+    <string name="q2_question">2. Which are the writing systems of Japan?</string>
+    <string name="q2_a1">Kanji</string>
+    <string name="q2_a2">Hangeul</string>
+    <string name="q2_a3">Katakana</string>
+    <string name="q2_a4">Hiragana</string>
+    <string name="q2_correct_message">Correct Answer: Kanji, Katakana, Hiragana</string>
+
+    <!-- Question, possible answers, and answer reveal strings for Q3-->
+    <string name="q3_question">3. What is the name of the Japanese currency?</string>
+    <string name="q3_a1">RMB</string>
+    <string name="q3_a2">Dollars</string>
+    <string name="q3_a3_answer">Yen</string>
+    <string name="q3_a4">Won</string>
+    <string name="q3_correct_message">Correct Answer: Yen</string>
+
+    <!-- Question, possible answers, and answer reveal strings for Q4-->
+    <string name="q4_question">4. Approximately how many islands are there in japan?</string>
+    <string name="q4_a1">8,200</string>
+    <string name="q4_a2">2,600</string>
+    <string name="q4_a3">840</string>
+    <string name="q4_a4_answer">6,800</string>
+    <string name="q4_correct_message">Correct Answer: 6,800</string>
+
+    <!-- Question, possible answers, hint, and answer reveal strings for Q5-->
+    <string name="q5_question">5. How do you say Japan in Japanese(romanized)?</string>
+    <string name="q5_answer1">Nihon</string>
+    <string name="q5_answer2">Nippon</string>
+    <string name="q5_correct_message">Correct Answer: Nihon or Nippon</string>
+    <string name="q5_hint">Japan in Japanese</string>
+
+    <!--button strings-->
+    <string name="submit_button">SUBMIT</string>
+    <string name="reset_button">RESET</string>
+    <!--reset button message-->
+    <string name="reset_button_message">The quiz is now reset!</string>
+
+</resources>
